@@ -1,0 +1,16 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace FilmesAPI.DTOs
+{
+    public class CreateFilmeDTO
+    {
+            [Required(ErrorMessage = "O titulo do filme é obrigatorio")] // Indica que o campo é obrigatório
+            public string Titulo { get; set; }
+            [Required(ErrorMessage = "O genero do filme é obrigatorio")]
+            [StringLength(50, ErrorMessage = "O tamanho do genero não pode exceder 50 caracteres")] // Define o tamanho máximo do campo
+            public string Genero { get; set; }
+            [Required]
+            [Range(70, 600, ErrorMessage = "A duração deve ter entre 70 e 600 minutos")] // Define um intervalo válido para o campo
+            public int Duracao { get; set; }
+    }
+}

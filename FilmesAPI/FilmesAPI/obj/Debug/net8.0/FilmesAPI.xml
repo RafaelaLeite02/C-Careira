@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilmesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AdicionaFilme(FilmesAPI.DTOs.CreateFilmeDTO)">
+            <summary>
+            Adiciona um filme ao banco de dados
+            </summary>
+            <param name="filmeDto">Objeto com os campos necessários para criação de um filme</param>
+            <returns>IActionResult</returns>
+            <response code="201">Caso inserção seja feita com sucesso</response>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperaFilmes">
+            <summary>
+            Visualizar od filmes que estão no banco de dados
+            </summary>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.RecuperaFilmePorId(System.Int32)">
+            <summary>
+            Visualizar um filme pelo id no banco de dados
+            </summary>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaFilme(System.Int32,FilmesAPI.DTOs.UpdateFilmeDTO)">
+            <summary>
+            Atualizar um filme no banco de dados
+            </summary>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.AtualizaFilmeParcial(System.Int32,Microsoft.AspNetCore.JsonPatch.JsonPatchDocument{FilmesAPI.DTOs.UpdateFilmeDTO})">
+            <summary>
+            Atualizar Parcialmente um filme no banco de dados
+            </summary>
+        </member>
+        <member name="M:FilmesAPI.Controllers.FilmeController.DeletaFilme(System.Int32)">
+            <summary>
+            Deletar um flme do banco de dados
+            </summary>
+        </member>
+        <member name="T:FilmesAPI.Migrations.CriandoTabelaDeFilme">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CriandoTabelaDeFilme.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CriandoTabelaDeFilme.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:FilmesAPI.Migrations.CriandoTabelaDeFilme.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
