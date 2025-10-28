@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\filmesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\filmesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\filmesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\74837\\desktop\\c#carreira\\filmesapi\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE44D9C-2AF8-46E0-B9CA-20524794A284}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +58,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FilmesAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\appsettings.json",
+              "RelativeToolTip": "FilmesAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T16:43:46.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmesAPI.http",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\FilmesAPI.http",
+              "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.http",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\FilmesAPI.http",
+              "RelativeToolTip": "FilmesAPI\\FilmesAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-24T16:43:09.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -34,41 +92,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
-              "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ReadFilmeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\ReadFilmeDTO.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\DTOs\\ReadFilmeDTO.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\ReadFilmeDTO.cs",
+              "RelativeToolTip": "FilmesAPI\\DTOs\\ReadFilmeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:12:21.911Z",
+              "WhenOpened": "2025-10-24T14:17:49.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FilmeController.cs",
-              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs*",
-              "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Title": "FilmeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Profiles\\FilmeProfile.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Profiles\\FilmeProfile.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Profiles\\FilmeProfile.cs",
+              "RelativeToolTip": "FilmesAPI\\Profiles\\FilmeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:05:35.387Z",
+              "WhenOpened": "2025-10-24T13:45:39.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FilmesAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-16T16:50:59.638Z",
+              "DocumentIndex": 9,
+              "Title": "UpdateFilmeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\UpdateFilmeDTO.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\DTOs\\UpdateFilmeDTO.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\UpdateFilmeDTO.cs",
+              "RelativeToolTip": "FilmesAPI\\DTOs\\UpdateFilmeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:32:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateFilmeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\CreateFilmeDTO.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\DTOs\\CreateFilmeDTO.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\DTOs\\CreateFilmeDTO.cs",
+              "RelativeToolTip": "FilmesAPI\\DTOs\\CreateFilmeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:31:46.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmesAPI",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.csproj",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeToolTip": "FilmesAPI\\FilmesAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-24T13:20:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeToolTip": "FilmesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T13:11:19.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
+              "RelativeToolTip": "FilmesAPI\\Models\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:32:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilmeController.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
+              "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:20:56.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilmeContext.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Data\\FilmeContext.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\FilmeContext.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Data\\FilmeContext.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\FilmeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T12:20:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilmeContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\74837\\Desktop\\C#Carreira\\FilmesAPI\\FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
+              "RelativeToolTip": "FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:30:47.226Z",
               "EditorCaption": ""
             }
           ]
